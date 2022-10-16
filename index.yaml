@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  hello-kubernetes:
+  - apiVersion: v2
+    appVersion: "1.10"
+    created: "2022-10-16T12:49:16.773026328Z"
+    description: A demo application for a Kubernetes cluster.
+    digest: d59b978b0f1961688093b2b301384936dfe9305fc9cfb034f82b433d8659629e
+    name: hello-kubernetes
+    type: application
+    urls:
+    - https://github.com/saitejaopsmx/testinghelm/releases/download/hello-kubernetes-1.0.6/hello-kubernetes-1.0.6.tgz
+    version: 1.0.6
+generated: "2022-10-16T12:49:16.77303273Z"
